@@ -7,4 +7,4 @@ For prepare coding test and studying data structure&algorithm.
 ### Programmers
 
 - Level0 - 100 solved.
-- Level1 - 49 solved.
+- Level1 - 50 solved.
