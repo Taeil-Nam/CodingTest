@@ -6,6 +6,6 @@ For prepare coding test and studying data structure&algorithm.
 
 ### Programmers
 
-- Level0 - 142 solved.
+- Level0 - 143 solved.
 - Level1 - 60 solved.
 - level2 - 3 solved.
