@@ -8,4 +8,4 @@ For prepare coding test and studying data structure&algorithm.
 
 - Level0 - 150 solved.
 - Level1 - 60 solved.
-- level2 - 4 solved.
+- level2 - 5 solved.
